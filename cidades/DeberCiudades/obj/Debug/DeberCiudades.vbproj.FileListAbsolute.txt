@@ -1,0 +1,23 @@
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.exe.config
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.exe
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.pdb
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.xml
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.vbprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.Form1.resources
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.Resources.resources
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.vbproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.exe
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.xml
+C:\Users\Bryan\source\repos\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.pdb
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.exe.config
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.exe
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.pdb
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\bin\Debug\DeberCiudades.xml
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.vbprojAssemblyReference.cache
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.Form1.resources
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.Resources.resources
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.vbproj.GenerateResource.cache
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.vbproj.CoreCompileInputs.cache
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.exe
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.xml
+C:\Users\steven pozo\Desktop\DeberCiudades\DeberCiudades\obj\Debug\DeberCiudades.pdb
